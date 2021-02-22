@@ -1,10 +1,13 @@
 # Tip_Calculator
 First Project: Tip Calculator
 
-This calculator will take a users input at the command line for:/n 
-Cost of the food/n
-Number of people splitting the bill/n
-Percentage of the tip/n
+This calculator will take a users input at the command line for:
+
+Cost of the food
+
+Number of people splitting the bill
+
+Percentage of the tip
 
 Then, the script should output:
 
